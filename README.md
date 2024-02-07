@@ -13,6 +13,6 @@
  * and handling server responses. It also demonstrates creating directories     *
  * for storing cached files, thus mimicking basic caching behavior of a proxy.  *
  *                                                                              *
- * Authors: Liya Hanny Avitan & Miriam Sirota                                   *
+ * Authors: Liya Hanny Avitan                          *
  * Created for educational purposes.                                            *
  ********************************************************************************/
